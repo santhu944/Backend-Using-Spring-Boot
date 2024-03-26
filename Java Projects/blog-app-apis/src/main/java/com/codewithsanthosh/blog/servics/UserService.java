@@ -1,7 +1,6 @@
 package com.codewithsanthosh.blog.servics;
 import java.util.List;
 
-import com.codewithsanthosh.blog.entities.User;
 import com.codewithsanthosh.blog.payloads.UserDto;
 public interface UserService {
 	
